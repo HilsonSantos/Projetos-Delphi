@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/30 21:30:16.000.330,=C:\Embarcadero\Studio\23.0\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:30:57.000.851,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\unit\uPrincipal.fmx=C:\Embarcadero\Studio\23.0\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/01/30 21:30:57.000.851,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\unit\uPrincipal.pas=C:\Embarcadero\Studio\23.0\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:31:09.000.851,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\appsfv.dproj=C:\Embarcadero\Studio\23.0\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/01/30 21:34:28.000.434,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:35:41.000.891,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 21:36:07.000.609,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\unit\uSplash.fmx=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.fmx</Transaction>
+    <Transaction>2025/01/30 21:36:07.000.609,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\unit\uSplash.pas=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 22:08:33.000.711,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.pas</Transaction>
+    <Transaction>2025/01/30 22:08:52.000.640,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.fmx=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\unit\uLogin.fmx</Transaction>
+    <Transaction>2025/01/30 22:08:52.000.640,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\Unit1.pas=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\unit\uLogin.pas</Transaction>
+    <Transaction>2025/01/30 22:15:18.000.325,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uLogin.pas=</Transaction>
+    <Transaction>2025/01/30 22:15:26.000.980,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uSplash.pas=</Transaction>
+    <Transaction>2025/01/30 22:15:26.000.988,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uPrincipal.pas=</Transaction>
+    <Transaction>2025/01/30 22:20:37.000.551,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uPrincipal.pas</Transaction>
+    <Transaction>2025/01/30 22:21:08.000.484,C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uPrincipal.pas=</Transaction>
+    <Transaction>2025/01/30 22:21:16.000.030,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uPrincipal.pas</Transaction>
+    <Transaction>2025/01/30 22:27:56.696,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uLogin.pas</Transaction>
+    <Transaction>2025/01/30 22:27:56.780,=C:\Embarcadero\Projetos\Projetos-Delphi\appsfv\pas\uSplash.pas</Transaction>
+  </Transactions>
+</BorlandProject>
